@@ -1,6 +1,6 @@
 # EZ Dota — Support / Soporte
 
-**Email:** yoel@agtrace.ag
+**Email:** ezdota.app@gmail.com
 
 ## Frequently asked / Preguntas frecuentes
 

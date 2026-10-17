@@ -21,7 +21,7 @@ If you enable alerts, the app periodically asks OpenDota for your (and your frie
 If a crash occurs, the app may send an anonymous crash report (device model, OS version, the stack trace) to Sentry. No personal data is attached.
 
 ### Your rights
-You can delete your EZ Dota account at any time from Settings → your account → "Delete my account"; this removes everything stored on our servers. For any question write to **yoel@agtrace.ag**.
+You can delete your EZ Dota account at any time from Settings → your account → "Delete my account"; this removes everything stored on our servers. For any question write to **ezdota.app@gmail.com**.
 
 ### Children
 The app is not directed at children under 13.
@@ -47,7 +47,7 @@ Si activas los avisos, la app consulta periódicamente a OpenDota tu última par
 Si la app falla, puede enviar un informe anónimo (modelo de dispositivo, versión del sistema, traza del error) a Sentry. No incluye datos personales.
 
 ### Tus derechos
-Puedes borrar tu cuenta de EZ Dota cuando quieras desde Ajustes → tu cuenta → "Borrar mi cuenta"; esto elimina todo lo guardado en nuestros servidores. Para cualquier duda escribe a **yoel@agtrace.ag**.
+Puedes borrar tu cuenta de EZ Dota cuando quieras desde Ajustes → tu cuenta → "Borrar mi cuenta"; esto elimina todo lo guardado en nuestros servidores. Para cualquier duda escribe a **ezdota.app@gmail.com**.
 
 ### Menores
 La app no está dirigida a menores de 13 años.
