@@ -17,9 +17,6 @@ Match statistics, player profiles, rankings and pro games come from the public *
 ### Notifications and background checks
 If you enable alerts, the app periodically asks OpenDota for your (and your friends') latest match and for live pro games in the background and shows local notifications. Nothing about this leaves your device except those requests to OpenDota.
 
-### Crash reports
-If a crash occurs, the app may send an anonymous crash report (device model, OS version, the stack trace) to Sentry. No personal data is attached.
-
 ### Your rights
 You can delete your EZ Dota account at any time from Settings → your account → "Delete my account"; this removes everything stored on our servers. For any question write to **ezdota.app@gmail.com**.
 
@@ -42,9 +39,6 @@ Las estadísticas de partidas, perfiles, rankings y partidas pro vienen de la AP
 
 ### Avisos y comprobaciones en segundo plano
 Si activas los avisos, la app consulta periódicamente a OpenDota tu última partida (y la de tus amigos) y las partidas pro en vivo, y muestra notificaciones locales. Nada sale de tu dispositivo salvo esas consultas a OpenDota.
-
-### Informes de errores
-Si la app falla, puede enviar un informe anónimo (modelo de dispositivo, versión del sistema, traza del error) a Sentry. No incluye datos personales.
 
 ### Tus derechos
 Puedes borrar tu cuenta de EZ Dota cuando quieras desde Ajustes → tu cuenta → "Borrar mi cuenta"; esto elimina todo lo guardado en nuestros servidores. Para cualquier duda escribe a **ezdota.app@gmail.com**.
